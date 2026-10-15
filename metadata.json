@@ -1,0 +1,8 @@
+{
+  "name": "SocialWatch AI",
+  "description": "Evidence-based social media threat intelligence and news verification system with source citations and human-in-the-loop review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
